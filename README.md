@@ -62,8 +62,8 @@ Whether you're a fresh graduate or an experienced developer, this guide covers e
 | 🔢 | **[Mathematics](https://github.com/karthikbm33/tech-knowledge-base/tree/master/Mathematics)** | Number theory, combinatorics, probability |
 | 🖥️ | **[Operating Systems](https://github.com/karthikbm33/tech-knowledge-base/tree/master/Operating%20Systems)** | Processes, threads, memory, scheduling |
 | 🏗️ | **[System Design](https://github.com/karthikbm33/tech-knowledge-base/tree/master/System%20Design)** | Scalability, databases, distributed systems |
+| 🔐 | **[Cybersecurity](https://github.com/karthikbm33/tech-knowledge-base/tree/main/Cybersecurity)** | Network security, cryptography, threats & defenses |
 | 💡 | **[Interview Tips](https://github.com/karthikbm33/tech-knowledge-base/tree/master/Advice)** | Proven strategies to ace any interview |
-
 </div>
 
 <br/>
