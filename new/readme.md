@@ -6,7 +6,7 @@
 
 <p align="center">
 🔥 Curated collection of the best GitHub resources for <b>Programming, DSA, Cybersecurity, AI, and System Design</b>  
-🎯 Perfect for <b>MCA, M.Tech, and self-taught developers</b>
+🎯 Perfect for <b>Techies</b>
 </p>
 
 <p align="center">
