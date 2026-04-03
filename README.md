@@ -37,7 +37,7 @@
 <tr>
 <td>
 
-**Technical Interview Megarepo** is a comprehensive, community-driven collection of study materials to help developers prepare for technical interviews at top tech companies like **Google, Amazon, Microsoft, Meta, Apple** and more.
+**Technical Interview Repository** is a comprehensive, community-driven collection of study materials to help developers prepare for technical interviews at top tech companies like **Google, Amazon, Microsoft, Meta, Apple** and more.
 
 Whether you're a fresh graduate or an experienced developer, this guide covers everything from core algorithms to system design — all in one place.
 
