@@ -101,7 +101,7 @@ Whether you're a fresh graduate or an experienced developer, this guide covers e
 
 | # | Video | Description |
 |:---:|:---|:---|
-| ▶️ | **[How to Work at Google — Candidate Coaching Session](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)** | Official Google coaching on interview preparation |
+| ▶️ | **[How to Work at Google — Candidate Coaching Session]([https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be](https://youtu.be/we7ba0slWrc?si=hAAuSWHq0Fmk2m-K))** | Official Google coaching on interview preparation |
 
 </div>
 
