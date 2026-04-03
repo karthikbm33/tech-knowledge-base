@@ -1,103 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=🚀%20Tech%20Study%20Hub&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ultimate%20Resources%20for%20Developers%20%7C%20MCA%20%7C%20M.Tech%20%7C%20Cybersecurity&descSize=20&descAlignY=62&descColor=dddddd" width="100%"/>
-</p>
+# 🚀 Tech Mastery Hub
 
-<h1 align="center">📚 Tech Study Hub</h1>
-
-<p align="center">
-🔥 Curated collection of the best GitHub resources for <b>Programming, DSA, Cybersecurity, AI, and System Design</b>  
-🎯 Perfect for <b>Techies</b>
-</p>
-
-<p align="center">
-🔗 <b>Repository Link:</b> https://github.com/your-username/tech-study-hub
-</p>
+> 📚 A curated collection of the best GitHub resources for MCA, M.Tech, Cybersecurity, DSA, Programming & more.
 
 ---
 
-## 🚀 Top Resources
-
-### 🌟 1. Awesome
-🔗 https://github.com/sindresorhus/awesome  
-💡 A massive curated list of high-quality resources across all tech domains.
+## 🔗 Repository Link
+👉 https://github.com/your-username/tech-mastery-hub
 
 ---
 
-### 🧠 2. Developer Roadmap
-🔗 https://github.com/kamranahmedse/developer-roadmap  
-📌 Step-by-step learning paths for frontend, backend, DevOps, and more.
+## 📖 Study Materials
+
+| # | Topic | Description |
+|---|------|-------------|
+| 1️⃣ | 🌟 [Awesome](https://github.com/sindresorhus/awesome) | A massive curated list of high-quality resources covering almost every tech domain. |
+| 2️⃣ | 🧠 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) | Step-by-step learning paths for different tech roles like frontend, backend, DevOps, etc. |
+| 3️⃣ | 📚 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Collection of thousands of free programming books, notes, and learning resources. |
+| 4️⃣ | 💻 [Coding Interview University](https://github.com/jwasham/coding-interview-university) | Complete guide to mastering Data Structures & Algorithms for technical interviews. |
+| 5️⃣ | ⚡ [System Design Primer](https://github.com/donnemartin/system-design-primer) | Learn system design concepts with real-world examples and scalable architecture. |
+| 6️⃣ | 🔐 [ISC2 CC Study Material](https://github.com/cyberfascinate/ISC2-CC-Study-Material) | Comprehensive study materials for ISC2 Certified in Cybersecurity (CC) exam. |
+| 7️⃣ | 🛡️ [90 Days of Cyber Security](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | Structured 90-day roadmap to learn cybersecurity from basics to advanced. |
+| 8️⃣ | 📊 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | Curated list of machine learning frameworks, libraries, and resources. |
+| 9️⃣ | 🧮 [The Algorithms](https://github.com/TheAlgorithms) | Open-source implementations of algorithms in multiple programming languages. |
+| 🔟 | 🧩 [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) | Learn programming by building real-world projects across various domains. |
 
 ---
 
-### 📚 3. Free Programming Books
-🔗 https://github.com/EbookFoundation/free-programming-books  
-📖 Collection of 1000+ free programming books and resources.
+<div align="center">
 
----
+✨ *Learn. Build. Grow.* 🚀
 
-### 💻 4. Coding Interview University
-🔗 https://github.com/jwasham/coding-interview-university  
-🎯 Complete guide for DSA and technical interview preparation.
-
----
-
-### ⚡ 5. System Design Primer
-🔗 https://github.com/donnemartin/system-design-primer  
-🏗️ Learn system design concepts for scalable applications.
-
----
-
-### 🔐 6. Awesome Cybersecurity
-🔗 https://github.com/awesome-cybersecurity/awesome-cybersecurity  
-🛡️ Curated cybersecurity tools, guides, and learning materials.
-
----
-
-### 🛡️ 7. Awesome Hacking
-🔗 https://github.com/Hack-with-Github/Awesome-Hacking  
-⚔️ Ethical hacking and penetration testing resources.
-
----
-
-### 📊 8. Awesome Machine Learning
-🔗 https://github.com/josephmisiti/awesome-machine-learning  
-🤖 Best tools and frameworks for ML and AI.
-
----
-
-### 🧮 9. The Algorithms
-🔗 https://github.com/TheAlgorithms  
-📌 DSA implementations in multiple programming languages.
-
----
-
-### 🧩 10. Project-Based Learning
-🔗 https://github.com/practical-tutorials/project-based-learning  
-🛠️ Learn by building real-world projects.
-
----
-
-## 🎯 Who Is This For?
-
-- 👨‍🎓 MCA / M.Tech Students  
-- 💻 Aspiring Developers  
-- 🧠 DSA & Interview Preparation  
-- 🔐 Cybersecurity Enthusiasts  
-- 🚀 Self-taught Programmers  
-
----
-
-## 🌐 Bonus Resource
-
-📺 [Technological Guide](https://www.youtube.com/watch?v=YtdWHFwmd2o)
-
----
-
-## 🤝 Contributing
-
-Want to add more awesome resources? Contributions are welcome!
-
-```bash
-git clone https://github.com/your-username/tech-study-hub.git
-cd tech-study-hub
-git checkout -b feature/add-resource
+</div>
