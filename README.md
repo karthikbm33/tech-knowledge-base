@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a1a2e,60:16213e,100:0f3460&height=280&section=header&text=💼%20Technical%20Interview&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=The%20Ultimate%20Study%20Guide%20for%20Developers&descSize=20&descAlignY=60&descColor=e94560&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:232526,100:414345&height=240&section=header&text=📚%20Technical%20Interview&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Master%20Concepts.%20Build%20Confidence.%20Get%20Hired.&descSize=18&descAlignY=65&descColor=bbbbbb" width="100%"/>
+</p>
 
 <br/>
 
