@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[![Stars](https://img.shields.io/github/stars/jdsutton/Technical-Interview-Megarepo?style=for-the-badge&logo=apachespark&color=e94560&logoColor=white&label=Stars)](https://github.com/jdsutton/Technical-Interview-Megarepo/stargazers)&nbsp;
-[![Forks](https://img.shields.io/github/forks/jdsutton/Technical-Interview-Megarepo?style=for-the-badge&logo=git&color=0f3460&logoColor=white&label=Forks)](https://github.com/jdsutton/Technical-Interview-Megarepo/network/members)&nbsp;
-[![Issues](https://img.shields.io/github/issues/jdsutton/Technical-Interview-Megarepo?style=for-the-badge&logo=gitbook&color=16213e&logoColor=white)](https://github.com/jdsutton/Technical-Interview-Megarepo/issues)&nbsp;
+[![Stars](https://img.shields.io/github/stars/karthikbm33/tech-knowledge-base?style=for-the-badge&logo=apachespark&color=e94560&logoColor=white&label=Stars)](https://github.com/karthikbm33/tech-knowledge-base/stargazers)&nbsp;
+[![Forks](https://img.shields.io/github/forks/karthikbm33/tech-knowledge-base?style=for-the-badge&logo=git&color=0f3460&logoColor=white&label=Forks)](https://github.com/karthikbm33/tech-knowledge-base/network/members)&nbsp;
+[![Issues](https://img.shields.io/github/issues/karthikbm33/tech-knowledge-base?style=for-the-badge&logo=gitbook&color=16213e&logoColor=white)](https://github.com/karthikbm33/tech-knowledge-base/issues)&nbsp;
 [![PRs](https://img.shields.io/badge/PRs-Welcome-e94560?style=for-the-badge&logo=git&logoColor=white)](./CONTRIBUTING.md)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-0f3460?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](./LICENSE)
 
@@ -55,12 +55,12 @@ Whether you're a fresh graduate or an experienced developer, this guide covers e
 
 | # | Topic | Description |
 |:---:|:---|:---|
-| 🔁 | **[Algorithms](https://github.com/jdsutton/Technical-Interview-Megarepo/tree/master/Algorithms)** | Sorting, searching, dynamic programming & more |
-| 🌲 | **[Data Structures](https://github.com/jdsutton/Technical-Interview-Megarepo/tree/master/Data%20Structures)** | Arrays, trees, graphs, heaps, hash maps & more |
-| 🔢 | **[Mathematics](https://github.com/jdsutton/Technical-Interview-Megarepo/tree/master/Mathematics)** | Number theory, combinatorics, probability |
-| 🖥️ | **[Operating Systems](https://github.com/jdsutton/Technical-Interview-Megarepo/tree/master/Operating%20Systems)** | Processes, threads, memory, scheduling |
-| 🏗️ | **[System Design](https://github.com/jdsutton/Technical-Interview-Megarepo/tree/master/System%20Design)** | Scalability, databases, distributed systems |
-| 💡 | **[Interview Tips](https://github.com/jdsutton/Technical-Interview-Megarepo/tree/master/Advice)** | Proven strategies to ace any interview |
+| 🔁 | **[Algorithms](https://github.com/karthikbm33/tech-knowledge-base/tree/master/Algorithms)** | Sorting, searching, dynamic programming & more |
+| 🌲 | **[Data Structures](https://github.com/karthikbm33/tech-knowledge-base/tree/master/Data%20Structures)** | Arrays, trees, graphs, heaps, hash maps & more |
+| 🔢 | **[Mathematics](https://github.com/karthikbm33/tech-knowledge-base/tree/master/Mathematics)** | Number theory, combinatorics, probability |
+| 🖥️ | **[Operating Systems](https://github.com/karthikbm33/tech-knowledge-base/tree/master/Operating%20Systems)** | Processes, threads, memory, scheduling |
+| 🏗️ | **[System Design](https://github.com/karthikbm33/tech-knowledge-base/tree/master/System%20Design)** | Scalability, databases, distributed systems |
+| 💡 | **[Interview Tips](https://github.com/karthikbm33/tech-knowledge-base/tree/master/Advice)** | Proven strategies to ace any interview |
 
 </div>
 
@@ -101,7 +101,7 @@ Whether you're a fresh graduate or an experienced developer, this guide covers e
 
 | # | Video | Description |
 |:---:|:---|:---|
-| ▶️ | **[How to Work at Google — Candidate Coaching Session]([https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be](https://youtu.be/we7ba0slWrc?si=hAAuSWHq0Fmk2m-K))** | Official Google coaching on interview preparation |
+| ▶️ | **[How to Work at Google — Candidate Coaching Session]([https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be](https://youtu.be/we7ba0slWrc?si=e2moUZzZ2V-dNOUG))** | Official Google coaching on interview preparation |
 
 </div>
 
@@ -200,8 +200,8 @@ Week 5  ████████████████████  💻 Mock 
 
 **Star this repo** to help other developers find it!
 
-[![Star](https://img.shields.io/badge/%E2%AD%90%20Star%20this%20Repo-0f3460?style=for-the-badge&logo=github&logoColor=e94560)](https://github.com/jdsutton/Technical-Interview-Megarepo)&nbsp;
-[![Fork](https://img.shields.io/badge/%F0%9F%8D%B4%20Fork%20this%20Repo-16213e?style=for-the-badge&logo=git&logoColor=e94560)](https://github.com/jdsutton/Technical-Interview-Megarepo/fork)&nbsp;
+[![Star](https://img.shields.io/badge/%E2%AD%90%20Star%20this%20Repo-0f3460?style=for-the-badge&logo=github&logoColor=e94560)](https://github.com/karthikbm33/tech-knowledge-base)&nbsp;
+[![Fork](https://img.shields.io/badge/%F0%9F%8D%B4%20Fork%20this%20Repo-16213e?style=for-the-badge&logo=git&logoColor=e94560)](https://github.com/karthikbm33/tech-knowledge-base/fork)&nbsp;
 [![Contribute](https://img.shields.io/badge/%F0%9F%A4%9D%20Contribute-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=e94560)](./CONTRIBUTING.md)
 
 <br/>
