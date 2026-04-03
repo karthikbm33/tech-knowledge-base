@@ -1,38 +1,122 @@
-# Interview Advice
+# 🧠 Interview Guide
 
-## What is the interviewer looking for?
-This is something you can ask about before the interview. Here are some of the things I look for when interviewing software engineer candidates:
-### Correctness.
-  * Is the code correct? Does it cover all the edge/corner cases?
-  * I am NOT looking for code that will compile perfectly. That said, the more flawless your code is, the more it looks like you know what you're doing.
-### Readability.
-  * Are the variable names descriptive?
-  * Is the code easy to read or confusing?
-  * Does the candidate comment their code?
-### Scalability.
-* How efficient is the solution? Will it scale?
-* How does the solution balance memory and CPU usage?
-* Can the candidate describe how they would adapt their solution to different memory and CPU constraints?
-* If needed, can the candidate make the requested optimizations to their solution?
-### Architecture/Design.
-* How does the candidate model their solution to the given problem? Is the design clear, sound, and appropriate to the application?
-* Separation of concerns. Is the logic and data appropriately encapsulated?
-### Personability.
-* What is the candidate's personality like? Do they seem like they would work well in a team?
-* Is the candidate open to criticism and requests for changes?
-* Is the candidate kind? Easygoing? Arrogant?
-### Domain Knowledge.
-* How well does the candidate know their language of choice? Are they able to apply it adeptly?
-* I am NOT looking for knowledge of language triva (some interviewers do ask these kinds of questions).
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Interview%20Prep-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Topics-OS%20%7C%20DSA%20%7C%20System%20Design-orange?style=for-the-badge" />
+</p>
 
-## In General:
-1. Ask questions
-  * The interviewer may not give you enough information. Be sure to ask clarifying questions.
-2. Think out loud
-  * The interviewer can't read your mind. Say your thoughts aloud so your thought process can be heard.
-3. Give reasons for the choices you make
-4. Describe how you are going to try to solve the problem
-5. Practice writing code on a whiteboard! Muscle memory is very important and practicing this will give you one less thing to worry about.
-6. Practice problems that have lots of subtle edge cases. Think about how your code will run with different types of input.
-7. Know trivia about your language of choice
-  1. The interviewer may ask you questions like "What sorting algorithm is used in the list data structure's .sort() method?"
+---
+
+## 🎯 Interview Advice
+
+### 🤔 What is the interviewer looking for?
+
+Before your interview, it’s always smart to understand expectations. Here are key areas interviewers evaluate:
+
+---
+
+### ✅ Correctness
+- Is your code logically correct?
+- Does it handle **edge cases** and **corner cases**?
+- It doesn’t need to compile perfectly, but correctness matters most.
+
+---
+
+### 📖 Readability
+- Are your variable names meaningful?
+- Is your code clean and easy to follow?
+- Do you use comments where needed?
+
+---
+
+### ⚡ Scalability
+- How efficient is your solution?
+- Does it scale well with large inputs?
+- Can you balance **memory vs CPU usage**?
+- Can you optimize when required?
+
+---
+
+### 🏗️ Architecture / Design
+- Is your approach structured and logical?
+- Do you separate concerns properly?
+- Is your design suitable for the problem?
+
+---
+
+### 🤝 Personability
+- Are you collaborative and open to feedback?
+- Do you communicate clearly?
+- Are you respectful and easy to work with?
+
+---
+
+### 🧩 Domain Knowledge
+- Do you understand your programming language deeply?
+- Can you apply concepts effectively?
+- Focus is on **practical knowledge**, not just trivia.
+
+---
+
+## 🧭 General Tips
+
+### 💡 1. Ask Questions
+> Don’t assume — clarify the problem before solving.
+
+---
+
+### 🗣️ 2. Think Out Loud
+> Explain your thought process clearly so the interviewer can follow.
+
+---
+
+### 🎯 3. Justify Your Choices
+- Why this approach?
+- Why this data structure?
+
+---
+
+### 🛠️ 4. Explain Your Plan
+- Outline your approach before coding
+
+---
+
+### ✍️ 5. Practice Writing Code
+- Practice on **paper or whiteboard**
+- Helps build muscle memory
+
+---
+
+### 🧪 6. Practice Edge Cases
+- Test your code with:
+  - Empty inputs
+  - Large inputs
+  - Unexpected values
+
+---
+
+### 📚 7. Know Your Language
+- Be prepared for questions like:
+  - *“Which sorting algorithm is used internally in `.sort()`?”*
+
+---
+
+## 🌟 Pro Tips
+
+- 🚀 Stay calm and structured
+- 🧠 Think before coding
+- 🔍 Test your solution mentally
+- 💬 Communicate clearly
+
+---
+
+## 📌 Final Thought
+
+> “Interviews are not just about solving problems — they are about **how you think, communicate, and improve**.”
+
+---
+
+<p align="center">
+  ⭐ If this helped you, consider giving the repo a star!
+</p>
